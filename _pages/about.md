@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.JPG
   address: >
     <p>Engineering Training Center II (ETC)</p>
     <p>204 East Dean Keeton St., Stop C2200 Austin, Texas 78712 </p>
